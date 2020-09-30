@@ -1,0 +1,4 @@
+C:\Users\hntdahta\source\repos\SortedList\bin\Debug\netcoreapp3.1\SortedList.exe
+C:\Users\hntdahta\source\repos\SortedList\obj\Debug\netcoreapp3.1\SortedList.csprojAssemblyReference.cache
+C:\Users\hntdahta\source\repos\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfoInputs.cache
+C:\Users\hntdahta\source\repos\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfo.cs

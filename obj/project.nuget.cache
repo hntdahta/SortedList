@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vORLfNHlwS5CdywgqZ0BbR2Y81arODmqoJXZmoBCc0ysPBexKkudtUSxipdHPylVadPOVhSQJ03XdLPjnApdmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hntdahta\\source\\repos\\SortedList\\SortedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hntdahta\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
